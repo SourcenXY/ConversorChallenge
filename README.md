@@ -6,7 +6,6 @@
 
 *[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
 
 *[Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -18,7 +17,17 @@
 <p>El programa cuenta con: </p>
 <ul>
   <li>Un menu de opciones para que el cliente pueda escoger la moneda que quiera cambiar</li>
-  [![Menu.jpg](https://i.postimg.cc/PJ5bZVXL/Menu.jpg)](https://postimg.cc/cgP8Gm8Z)
+  [![Menu](https://i.postimg.cc/PJ5bZVXL/Menu.jpg)](https://postimg.cc/cgP8Gm8Z)
+  <li>Al momento de elegir una opcion de la lista, al usuario le aparecera el valor de la moneda a la cual desea cambiar, en este caso aparece el valor del dolar en pesos argentinos</li>
+  [![Valor-Menu](https://i.postimg.cc/htr6Tvqh/Valor-Menu.jpg)](https://postimg.cc/5XXsMxyM)
+  <li>Y por ultimo, el usuario debera colocar la cantidad de monedas que desea cambiar</li>
+  [![Conversion-Moneda.jpg](https://i.postimg.cc/hPxfDWR2/Conversion-Moneda.jpg)](https://postimg.cc/1fm9BdtF)
+</ul>
 
+## Tecnoologias Utilizadas
+<ul>
+  <li>Java 17</li>
+  <li>Exchangerate-api</li>
+  <li>PostMan</li>
 </ul>
 
