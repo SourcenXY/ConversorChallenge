@@ -8,11 +8,11 @@
 <p>El programa cuenta con: </p>
 <ul>
   <li>Un menu de opciones para que el cliente pueda escoger la moneda que quiera cambiar</li>
-  [![Menu](https://i.postimg.cc/PJ5bZVXL/Menu.jpg)](https://postimg.cc/cgP8Gm8Z)
+  ![Menu](https://github.com/SourcenXY/ConversorChallenge/assets/107708809/bd367a84-309a-4167-afe3-36cd71007947)
   <li>Al momento de elegir una opcion de la lista, al usuario le aparecera el valor de la moneda a la cual desea cambiar, en este caso aparece el valor del dolar en pesos argentinos</li>
-  [![Valor-Menu](https://i.postimg.cc/htr6Tvqh/Valor-Menu.jpg)](https://postimg.cc/5XXsMxyM)
+  ![ValorMenu](https://github.com/SourcenXY/ConversorChallenge/assets/107708809/83a3dba8-051e-4704-8326-1cad47a9752f)
   <li>Y por ultimo, el usuario debera colocar la cantidad de monedas que desea cambiar</li>
-  [![Conversion-Moneda.jpg](https://i.postimg.cc/hPxfDWR2/Conversion-Moneda.jpg)](https://postimg.cc/1fm9BdtF)
+  ![ConversionMoneda](https://github.com/SourcenXY/ConversorChallenge/assets/107708809/b434f9af-cac9-4758-9559-c938d655d69c)
 </ul>
 
 ## Tecnologias Utilizadas
