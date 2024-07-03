@@ -1,14 +1,5 @@
 <h1 align="center">Conversor de Monedas Challenge</h1>
 
-# Índice
-
-*[Descripción del challenge](#descripción-del-proyecto)
-
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
-
-
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
 ## Descripcion del challenge
 
 <p>En este challenge he realizado el conversor de monedas para los diferentes tipos de monedas que hay en el mundo, el cual facilita a las personas que utilizen el programa saber el valor del moneda quedesean cambiar y cuanto desean cambiar.</p>
@@ -24,7 +15,7 @@
   [![Conversion-Moneda.jpg](https://i.postimg.cc/hPxfDWR2/Conversion-Moneda.jpg)](https://postimg.cc/1fm9BdtF)
 </ul>
 
-## Tecnoologias Utilizadas
+## Tecnologias Utilizadas
 <ul>
   <li>Java 17</li>
   <li>Exchangerate-api</li>
